@@ -34,6 +34,16 @@
   <description>
     A plugin that allows to inject managed dependencies from a given set of sources.
   </description>
+  <properties>
+    <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
+    <xwiki.issueManagement.jira.id>MDMP</xwiki.issueManagement.jira.id>
+  </properties>
+  <scm>
+    <connection>scm:git:git://github.com/xwiki-contrib/managed-dependencies-maven-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:xwiki-contrib/managed-dependencies-maven-plugin.git</developerConnection>
+    <url>https://github.com/xwiki-contrib/managed-dependencies-maven-plugin/tree/master</url>
+    <tag>HEAD</tag>
+  </scm>
   <developers>
     <developer>
       <id>caubin</id>
