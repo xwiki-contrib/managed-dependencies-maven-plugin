@@ -28,7 +28,7 @@
     <version>13.10</version>
   </parent>
   <artifactId>managed-dependencies-maven-plugin</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>XWiki Contrib - Managed Dependencies Maven Plugin</name>
   <packaging>maven-plugin</packaging>
   <description>
@@ -42,7 +42,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/managed-dependencies-maven-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/managed-dependencies-maven-plugin.git</developerConnection>
     <url>https://github.com/xwiki-contrib/managed-dependencies-maven-plugin/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>managed-dependencies-maven-plugin-1.0</tag>
   </scm>
   <developers>
     <developer>
