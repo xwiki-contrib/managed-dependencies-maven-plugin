@@ -3,7 +3,7 @@
 A plugin that allows to inject managed dependencies from a given set of sources.
 
 * Project Lead: [Clément Aubin](http://www.xwiki.org/xwiki/bin/view/XWiki/caubin)
-* Documentation & Downloads
+* [Documentation & Downloads](https://extensions.xwiki.org/xwiki/bin/view/Extension/ManagedDependenciesMavenPlugin/)
 * [Issue Tracker](http://jira.xwiki.org/browse/MDMP)
 * Communication: [Forum](<https://forum.xwiki.org/>), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
 * [Development Practices](http://dev.xwiki.org)
