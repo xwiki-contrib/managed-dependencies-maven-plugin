@@ -37,6 +37,8 @@
   <properties>
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
     <xwiki.issueManagement.jira.id>MDMP</xwiki.issueManagement.jira.id>
+    <xwiki.extension.name>Managed Dependencies Maven Plugin</xwiki.extension.name>
+    <xwiki.extension.category>other</xwiki.extension.category>
   </properties>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/managed-dependencies-maven-plugin.git</connection>
